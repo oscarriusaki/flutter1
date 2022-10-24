@@ -1,3 +1,4 @@
+export 'package:flutter_application_2/screen/slider_screen.dart';
 export 'package:flutter_application_2/screen/inputs_screen.dart';
 export 'package:flutter_application_2/screen/animated_screen.dart';
 export 'package:flutter_application_2/screen/avatar_screen.dart';
